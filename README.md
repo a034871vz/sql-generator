@@ -7,6 +7,6 @@
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/674658e3-65e0-4f03-a270-5bf2842a2b57/Untitled.png)
 
-![myimage-alt-tag](https://www.youtube.com/watch?v=hHbWF1Bvgf4)
+![myimage-alt-tag](https://imgur.com/t/dog/6HtbuWQ)
 Ответ пришлите в виде ссылки на git-репозиторий.
 
